@@ -1,8 +1,8 @@
 
-package javaapplication1;
+package gitbranch;
 
 
-public class JavaApplication1 {
+public class GitBranchNb {
 
     public static void main(String[] args) {
   
