@@ -5,11 +5,15 @@ package gitbranch;
 public class GitBranchNb {
 
     public static void main(String[] args) {
-        fv();
+        new GitBranchNb().fv(); //példányositjuk
     }
 
-    private static void fv() {
-        System.out.println("Ez egy static fv");
+    private void fv() {
+        System.out.println("Nem static fügvény");
     }
     
+   void eljaras(){
+       
+   }
+   
 }
