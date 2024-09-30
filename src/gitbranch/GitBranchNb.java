@@ -9,7 +9,7 @@ public class GitBranchNb {
     }
 
     private void fv() {
-        System.out.println("Nem statik fügvény");
+        System.out.println("Nem static fügvény");
     }
     
 }
